@@ -1,1 +1,1 @@
-Produce: [example]
+Produce: apple
